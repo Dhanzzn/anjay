@@ -9,7 +9,7 @@ global.APIs = {
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'V12',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz': 'VR5W6TrD',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
@@ -26,24 +26,24 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Denara Bot" //namabot kalian
-global.ownername= "DENARA" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/DenaraBot" //bebas asal jan hapus
-global.myweb2 = "https://linki.ee/denarabot" //bebas
-global.email = "denarabot1@gmail.com" //bebas
+global.botname = "*BOT || ALDI SHOP*" //namabot kalian
+global.ownername= "ALDI SHOP OFFICIAL" //nama kalian
+global.myweb ="-----" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/I'M Dhanzzz" //bebas asal jan hapus
+global.myweb2 = "https://lynk.id/aldibotz220" //bebas
+global.email = "Xzarpadewa@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285727492435'] //premium user
-global.owner = ["6285727492435","6281215626270"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285727492435" // nomor wa kalian
-global.ownernomerr = "+6285727492435" //nmr wa kalian
+global.premium = ['6287856297295'] //premium user
+global.owner = ["6287856297295"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6287856297295" // nomor wa kalian
+global.ownernomerr = "+6287856297295" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Denara Bot' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '© ALDI SHOP' //sticker wm ubah
+global.author = 'CROTT HYAAHHH' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
@@ -97,7 +97,7 @@ global.rpg = {
       dog: '🐶',
       fox: '🦊',
       petFood: '🍖',
-      iron: '⛓️',
+  ll   iron: '⛓️',
       gold: '🪙',
       emerald: '❇️',
       upgrader: '🧰'
